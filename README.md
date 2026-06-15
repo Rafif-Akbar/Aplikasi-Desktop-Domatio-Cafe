@@ -17,10 +17,10 @@ oleh kasir menjadi lebih mudah tanpa harus mencatat pesanan dari kostumer secara
 
 // FITUR //
 
-# Tampilan antarmuka yang mudah dipahami sehingga bisa digunakan dengan mudah dan cepat
-# Mencetak struk pemesanan dengan mudah
-# Perhitungan potongan pajak otomatis pada pencetakan struk pemesanan
-# Pemilihan meja makan beserta nomor meja dan jumlah kursi
+- Tampilan antarmuka yang mudah dipahami sehingga bisa digunakan dengan mudah dan cepat
+- Mencetak struk pemesanan dengan mudah
+- Perhitungan potongan pajak otomatis pada pencetakan struk pemesanan
+- Pemilihan meja makan beserta nomor meja dan jumlah kursi
 
 ============================================================================================================
 
